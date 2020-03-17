@@ -1,4 +1,3 @@
-require python3
 
 ### Installing dependencies
 
